@@ -82,7 +82,7 @@ dependencies {
     // https://mvnrepository.com/artifact/com.github.junrar/junrar
     implementation 'com.github.junrar:junrar:7.5.5'
     // https://mvnrepository.com/artifact/com.tapadoo.android/alerter
-    implementation 'com.tapadoo.android:alerter:3.0.0'
+    implementation 'com.tapadoo.android:alerter:3.0.2'
     implementation 'org.nanohttpd:nanohttpd-webserver:2.3.1'
     implementation 'org.benf:cfr:0.152'
     implementation 'io.github.beyka:Android-TiffBitmapFactory:0.9.9.1'
